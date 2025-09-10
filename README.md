@@ -43,5 +43,5 @@ ADHD is a neurodevelopmental disorder that often goes undiagnosed, leading to si
 
 ## How to Run
 *On the process
-git clone https://github.com/yourusername/ADHD-Neuroimaging-ML.git
+   - https://github.com/yourusername/ADHD-Neuroimaging-ML.git
 
